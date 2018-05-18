@@ -27,7 +27,7 @@ class App extends Component {
         <div>
           <h3>Hi Runner</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ac metus non lectus finibus venenatis id ut ipsum. Donec a sapien tristique, interdum justo elementum, interdum purus. Pellentesque sed malesuada sapien, ac ultrices sapien. Aenean ligula quam, aliquam vel lacus sed, hendrerit ornare lectus. Aliquam erat volutpat. Praesent nec neque accumsan, sagittis magna a, imperdiet mi. Suspendisse augue nisi, consequat quis cursus et, dictum at ante.</p>
-          <img src="http://lorempixel.com/400/200/sports" />
+          <img src="http://lorempixel.com/400/200/" />
         </div>
       );
     }
@@ -36,7 +36,7 @@ class App extends Component {
         <div>
           <h3>Hello Yogi!</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ac metus non lectus finibus venenatis id ut ipsum. Donec a sapien tristique, interdum justo elementum, interdum purus. Pellentesque sed malesuada sapien, ac ultrices sapien. Aenean ligula quam, aliquam vel lacus sed, hendrerit ornare lectus. Aliquam erat volutpat. Praesent nec neque accumsan, sagittis magna a, imperdiet mi. Suspendisse augue nisi, consequat quis cursus et, dictum at ante.</p>
-          <img src="http://lorempixel.com/400/200/sports" />
+          <img src="http://lorempixel.com/400/200/" />
         </div>
       );
     }
@@ -45,7 +45,7 @@ class App extends Component {
         <div>
           <h3>Hi Ali!</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ac metus non lectus finibus venenatis id ut ipsum. Donec a sapien tristique, interdum justo elementum, interdum purus. Pellentesque sed malesuada sapien, ac ultrices sapien. Aenean ligula quam, aliquam vel lacus sed, hendrerit ornare lectus. Aliquam erat volutpat. Praesent nec neque accumsan, sagittis magna a, imperdiet mi. Suspendisse augue nisi, consequat quis cursus et, dictum at ante.</p>
-          <img src="http://lorempixel.com/400/200/sports" />
+          <img src="http://lorempixel.com/400/200" />
         </div>
       );
     }
