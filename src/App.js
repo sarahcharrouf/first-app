@@ -59,7 +59,6 @@ class App extends Component {
         <p className="App-intro">
           Building an app one step at a time.
         </p>
-        {this.state.currentMenuItem}
         <select onChange={this.showMenu}>
           <option value="">(none selected)</option>
           <option value="running">Running</option>
