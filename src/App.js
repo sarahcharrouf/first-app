@@ -13,7 +13,6 @@ class App extends Component {
   }
 
   showMenu(event) {
-    console.log(event.target.value);
     this.setState({
       currentMenuItem : event.target.value
     })
@@ -73,21 +72,5 @@ class App extends Component {
   }
 }
 
-// <div>
-//   <button onClick={this.showMenu}>
-//     Show menu
-//   </button>
-// </div>
-// {
-//   this.state.showMenu
-//     ? (
-//       <div className="menu">
-//         <button> Menu item 1 </button>
-//         <button> Menu item 2 </button>
-//         <button> Menu item 3 </button>
-//       </div>
-//     )
-//
-// }
 
 export default App;
